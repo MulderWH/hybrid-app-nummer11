@@ -1,0 +1,10 @@
+/build
+/dist
+/node_modules
+/.yalc/
+/yalc.lock
+*.example
+
+.DS_Store
+config/google-services.json
+config/GoogleService-Info.plist
