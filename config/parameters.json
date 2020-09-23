@@ -1,0 +1,26 @@
+{
+  "url" : "https://nummer11.mendixcloud.com",
+  "identifier" : "com.pegamento.nummer11",
+  "version" : "0.0.18",
+  "name" : "Nummer 11",
+  "description" : null,
+  "iosEnabled" : true,
+  "androidEnabled" : true,
+  "requirePin" : false,
+  "enableOffline" : false,
+  "permissions" : {
+    "calendar" : false,
+    "camera" : true,
+    "photoLibrary" : true,
+    "contacts" : false,
+    "microphone" : false,
+    "geoLocation" : false,
+    "push" : false
+  },
+  "theme" : {
+    "background" : "#ffffff",
+    "text" : "#000000",
+    "button" : "#3d3f41",
+    "buttonCaption" : "#ffffff"
+  }
+}

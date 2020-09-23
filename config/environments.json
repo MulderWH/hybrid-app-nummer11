@@ -1,0 +1,17 @@
+{
+  "test" : {
+    "name" : "Nummer 11",
+    "identifier" : "com.pegamento.nummer11",
+    "url" : "https://nummer11-test.mendixcloud.com"
+  },
+  "acceptance" : {
+    "name" : "Nummer 11",
+    "identifier" : "com.pegamento.nummer11",
+    "url" : "https://nummer11-accp.mendixcloud.com"
+  },
+  "production" : {
+    "name" : "Nummer 11",
+    "identifier" : "com.pegamento.nummer11",
+    "url" : "https://nummer11.mendixcloud.com"
+  }
+}
