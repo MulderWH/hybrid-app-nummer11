@@ -7,34 +7,34 @@
     "height" : 180
   }, {
     "tag" : "splash",
-    "filename" : "res/ios/screen-ipad-landscape.png",
+    "filename" : "res/ios/screen-iphone-landscape-736h.png",
     "platform" : "ios",
-    "width" : 1024,
-    "height" : 768
-  }, {
-    "tag" : "splash",
-    "filename" : "res/ios/screen-iphone-portrait-2x.png",
-    "platform" : "ios",
-    "width" : 640,
-    "height" : 960
-  }, {
-    "tag" : "splash",
-    "filename" : "res/ios/screen-iphone-landscape.png",
-    "platform" : "ios",
-    "width" : 480,
-    "height" : 320
+    "width" : 2208,
+    "height" : 1242
   }, {
     "tag" : "icon",
-    "filename" : "res/ios/icon-50-2x.png",
+    "filename" : "res/ios/icon-83.5-2x.png",
     "platform" : "ios",
-    "width" : 100,
-    "height" : 100
+    "width" : 167,
+    "height" : 167
   }, {
     "tag" : "icon",
-    "filename" : "res/ios/icon-small.png",
+    "filename" : "res/ios/icon-2x.png",
     "platform" : "ios",
-    "width" : 29,
-    "height" : 29
+    "width" : 114,
+    "height" : 114
+  }, {
+    "tag" : "icon",
+    "filename" : "res/ios/icon-small-2x.png",
+    "platform" : "ios",
+    "width" : 58,
+    "height" : 58
+  }, {
+    "tag" : "splash",
+    "filename" : "res/ios/screen-ipad-portrait.png",
+    "platform" : "ios",
+    "width" : 768,
+    "height" : 1024
   }, {
     "tag" : "icon",
     "filename" : "res/ios/icon-60-2x.png",
@@ -43,40 +43,22 @@
     "height" : 120
   }, {
     "tag" : "icon",
-    "filename" : "res/ios/icon-small-3x.png",
+    "filename" : "res/ios/icon-76-2x.png",
     "platform" : "ios",
-    "width" : 87,
-    "height" : 87
+    "width" : 152,
+    "height" : 152
   }, {
     "tag" : "icon",
-    "filename" : "res/ios/icon.png",
+    "filename" : "res/ios/icon-40-2x.png",
     "platform" : "ios",
-    "width" : 57,
-    "height" : 57
-  }, {
-    "tag" : "icon",
-    "filename" : "res/ios/icon-50.png",
-    "platform" : "ios",
-    "width" : 50,
-    "height" : 50
-  }, {
-    "tag" : "icon",
-    "filename" : "res/ios/icon-72-2x.png",
-    "platform" : "ios",
-    "width" : 144,
-    "height" : 144
+    "width" : 80,
+    "height" : 80
   }, {
     "tag" : "splash",
     "filename" : "res/ios/screen-iphone-portrait.png",
     "platform" : "ios",
     "width" : 320,
     "height" : 480
-  }, {
-    "tag" : "icon",
-    "filename" : "res/ios/icon-40.png",
-    "platform" : "ios",
-    "width" : 40,
-    "height" : 40
   }, {
     "tag" : "splash",
     "filename" : "res/ios/screen-iphone-portrait-568h-2x.png",
@@ -85,22 +67,52 @@
     "height" : 1136
   }, {
     "tag" : "splash",
-    "filename" : "res/ios/screen-ipad-portrait-2x.png",
+    "filename" : "res/ios/screen-ipad-landscape-2x.png",
     "platform" : "ios",
-    "width" : 1536,
-    "height" : 2048
+    "width" : 2048,
+    "height" : 1536
   }, {
-    "tag" : "splash",
-    "filename" : "res/ios/screen-iphone-portrait-736h.png",
+    "tag" : "icon",
+    "filename" : "res/ios/icon-50-2x.png",
     "platform" : "ios",
-    "width" : 1242,
-    "height" : 2208
+    "width" : 100,
+    "height" : 100
+  }, {
+    "tag" : "icon",
+    "filename" : "res/ios/icon.png",
+    "platform" : "ios",
+    "width" : 57,
+    "height" : 57
   }, {
     "tag" : "splash",
     "filename" : "res/ios/screen-iphone-portrait-667h.png",
     "platform" : "ios",
     "width" : 750,
     "height" : 1334
+  }, {
+    "tag" : "splash",
+    "filename" : "res/ios/screen-iphone-landscape-2x.png",
+    "platform" : "ios",
+    "width" : 960,
+    "height" : 640
+  }, {
+    "tag" : "icon",
+    "filename" : "res/ios/icon-60.png",
+    "platform" : "ios",
+    "width" : 60,
+    "height" : 60
+  }, {
+    "tag" : "icon",
+    "filename" : "res/ios/icon-72.png",
+    "platform" : "ios",
+    "width" : 72,
+    "height" : 72
+  }, {
+    "tag" : "icon",
+    "filename" : "res/ios/icon-50.png",
+    "platform" : "ios",
+    "width" : 50,
+    "height" : 50
   }, {
     "tag" : "icon",
     "filename" : "res/ios/icon-76.png",
@@ -109,10 +121,16 @@
     "height" : 76
   }, {
     "tag" : "icon",
-    "filename" : "res/ios/icon-small-2x.png",
+    "filename" : "res/ios/icon-small.png",
     "platform" : "ios",
-    "width" : 58,
-    "height" : 58
+    "width" : 29,
+    "height" : 29
+  }, {
+    "tag" : "icon",
+    "filename" : "res/ios/icon-small-3x.png",
+    "platform" : "ios",
+    "width" : 87,
+    "height" : 87
   }, {
     "tag" : "splash",
     "filename" : "res/ios/screen-iphone-landscape-568h-2x.png",
@@ -126,96 +144,85 @@
     "width" : 1334,
     "height" : 750
   }, {
-    "tag" : "icon",
-    "filename" : "res/ios/icon-72.png",
+    "tag" : "splash",
+    "filename" : "res/ios/screen-iphone-portrait-736h.png",
     "platform" : "ios",
-    "width" : 72,
-    "height" : 72
+    "width" : 1242,
+    "height" : 2208
   }, {
     "tag" : "icon",
-    "filename" : "res/ios/icon-2x.png",
+    "filename" : "res/ios/icon-40.png",
     "platform" : "ios",
-    "width" : 114,
-    "height" : 114
+    "width" : 40,
+    "height" : 40
   }, {
     "tag" : "splash",
-    "filename" : "res/ios/screen-ipad-landscape-2x.png",
+    "filename" : "res/ios/screen-ipad-landscape.png",
     "platform" : "ios",
-    "width" : 2048,
-    "height" : 1536
-  }, {
-    "tag" : "icon",
-    "filename" : "res/ios/icon-60.png",
-    "platform" : "ios",
-    "width" : 60,
-    "height" : 60
-  }, {
-    "tag" : "icon",
-    "filename" : "res/ios/icon-76-2x.png",
-    "platform" : "ios",
-    "width" : 152,
-    "height" : 152
+    "width" : 1024,
+    "height" : 768
   }, {
     "tag" : "splash",
-    "filename" : "res/ios/screen-iphone-landscape-736h.png",
+    "filename" : "res/ios/screen-iphone-landscape.png",
     "platform" : "ios",
-    "width" : 2208,
-    "height" : 1242
+    "width" : 480,
+    "height" : 320
   }, {
     "tag" : "splash",
-    "filename" : "res/ios/screen-iphone-landscape-2x.png",
+    "filename" : "res/ios/screen-ipad-portrait-2x.png",
     "platform" : "ios",
-    "width" : 960,
-    "height" : 640
-  }, {
-    "tag" : "icon",
-    "filename" : "res/ios/icon-83.5-2x.png",
-    "platform" : "ios",
-    "width" : 167,
-    "height" : 167
-  }, {
-    "tag" : "icon",
-    "filename" : "res/ios/icon-40-2x.png",
-    "platform" : "ios",
-    "width" : 80,
-    "height" : 80
+    "width" : 1536,
+    "height" : 2048
   }, {
     "tag" : "splash",
-    "filename" : "res/ios/screen-ipad-portrait.png",
+    "filename" : "res/ios/screen-iphone-portrait-2x.png",
     "platform" : "ios",
-    "width" : 768,
+    "width" : 640,
+    "height" : 960
+  }, {
+    "tag" : "icon",
+    "filename" : "res/ios/icon-72-2x.png",
+    "platform" : "ios",
+    "width" : 144,
+    "height" : 144
+  }, {
+    "tag" : "icon",
+    "filename" : "res/ios/icon-1024.png",
+    "platform" : "ios",
+    "width" : 1024,
     "height" : 1024
-  } ],
+  }, {
+    "tag" : "icon",
+    "filename" : "res/ios/icon-20.png",
+    "platform" : "ios",
+    "width" : 20,
+    "height" : 20
+  }, {
+    "tag" : "icon",
+    "filename" : "res/ios/icon-20-2x.png",
+    "platform" : "ios",
+    "width" : 40,
+    "height" : 40
+  },
+    { "tag": "splash", "filename": "res/ios/Default@2x~iphone~anyany.png", "platform": "ios" },
+    { "tag": "splash", "filename": "res/ios/Default@2x~iphone~comany.png", "platform": "ios" },
+    { "tag": "splash", "filename": "res/ios/Default@2x~iphone~comcom.png", "platform": "ios" },
+    { "tag": "splash", "filename": "res/ios/Default@3x~iphone~anyany.png", "platform": "ios" },
+    { "tag": "splash", "filename": "res/ios/Default@3x~iphone~anycom.png", "platform": "ios" },
+    { "tag": "splash", "filename": "res/ios/Default@3x~iphone~comany.png", "platform": "ios" },
+    { "tag": "splash", "filename": "res/ios/Default@2x~ipad~anyany.png", "platform": "ios" },
+    { "tag": "splash", "filename": "res/ios/Default@2x~ipad~comany.png", "platform": "ios" }
+  ],
   "androidImages" : [ {
-    "tag" : "splash",
-    "filename" : "res/android/screen-xhdpi-portrait.png",
+    "tag" : "icon",
+    "filename" : "res/android/icon-144-xxhdpi.png",
     "platform" : "android",
-    "qualifier" : "port-xhdpi"
+    "qualifier" : "xxhdpi"
   }, {
     "tag" : "icon",
-    "filename" : "res/android/icon-96-xhdpi.png",
+    "filename" : "res/android/icon-72-hdpi.png",
     "platform" : "android",
-    "qualifier" : "xhdpi"
-  }, {
-    "tag" : "splash",
-    "filename" : "res/android/screen-ldpi-landscape.png",
-    "platform" : "android",
-    "qualifier" : "land-ldpi"
-  }, {
-    "tag" : "splash",
-    "filename" : "res/android/screen-xxxhdpi-portrait.png",
-    "platform" : "android",
-    "qualifier" : "port-xxxhdpi"
-  }, {
-    "tag" : "icon",
-    "filename" : "res/android/icon-36-ldpi.png",
-    "platform" : "android",
-    "qualifier" : "ldpi"
-  }, {
-    "tag" : "splash",
-    "filename" : "res/android/screen-hdpi-portrait.png",
-    "platform" : "android",
-    "qualifier" : "port-hdpi"
+    "qualifier" : "hdpi"
   }, {
     "tag" : "splash",
     "filename" : "res/android/screen-ldpi-portrait.png",
@@ -223,34 +230,44 @@
     "qualifier" : "port-ldpi"
   }, {
     "tag" : "splash",
-    "filename" : "res/android/screen-mdpi-landscape.png",
-    "platform" : "android",
-    "qualifier" : "land-mdpi"
-  }, {
-    "tag" : "splash",
     "filename" : "res/android/screen-xhdpi-landscape.png",
     "platform" : "android",
     "qualifier" : "land-xhdpi"
   }, {
-    "tag" : "icon",
-    "filename" : "res/android/icon-72-hdpi.png",
+    "tag" : "splash",
+    "filename" : "res/android/screen-xxxhdpi-portrait.png",
     "platform" : "android",
-    "qualifier" : "hdpi"
-  }, {
-    "tag" : "icon",
-    "filename" : "res/android/icon-192-xxxhdpi.png",
-    "platform" : "android",
-    "qualifier" : "xxxhdpi"
+    "qualifier" : "port-xxxhdpi"
   }, {
     "tag" : "splash",
-    "filename" : "res/android/screen-xxhdpi-portrait.png",
+    "filename" : "res/android/screen-xxxhdpi-landscape.png",
     "platform" : "android",
-    "qualifier" : "port-xxhdpi"
+    "qualifier" : "land-xxxhdpi"
+  }, {
+    "tag" : "icon",
+    "filename" : "res/android/icon-96-xhdpi.png",
+    "platform" : "android",
+    "qualifier" : "xhdpi"
   }, {
     "tag" : "splash",
     "filename" : "res/android/screen-xxhdpi-landscape.png",
     "platform" : "android",
     "qualifier" : "land-xxhdpi"
+  }, {
+    "tag" : "icon",
+    "filename" : "res/android/icon-36-ldpi.png",
+    "platform" : "android",
+    "qualifier" : "ldpi"
+  }, {
+    "tag" : "splash",
+    "filename" : "res/android/screen-ldpi-landscape.png",
+    "platform" : "android",
+    "qualifier" : "land-ldpi"
+  }, {
+    "tag" : "splash",
+    "filename" : "res/android/screen-xhdpi-portrait.png",
+    "platform" : "android",
+    "qualifier" : "port-xhdpi"
   }, {
     "tag" : "splash",
     "filename" : "res/android/screen-hdpi-landscape.png",
@@ -258,23 +275,33 @@
     "qualifier" : "land-hdpi"
   }, {
     "tag" : "splash",
-    "filename" : "res/android/screen-xxxhdpi-landscape.png",
+    "filename" : "res/android/screen-hdpi-portrait.png",
     "platform" : "android",
-    "qualifier" : "land-xxxhdpi"
-  }, {
-    "tag" : "splash",
-    "filename" : "res/android/screen-mdpi-portrait.png",
-    "platform" : "android",
-    "qualifier" : "port-mdpi"
-  }, {
-    "tag" : "icon",
-    "filename" : "res/android/icon-144-xxhdpi.png",
-    "platform" : "android",
-    "qualifier" : "xxhdpi"
+    "qualifier" : "port-hdpi"
   }, {
     "tag" : "icon",
     "filename" : "res/android/icon-48-mdpi.png",
     "platform" : "android",
     "qualifier" : "mdpi"
+  }, {
+    "tag" : "icon",
+    "filename" : "res/android/icon-192-xxxhdpi.png",
+    "platform" : "android",
+    "qualifier" : "xxxhdpi"
+  }, {
+    "tag" : "splash",
+    "filename" : "res/android/screen-mdpi-landscape.png",
+    "platform" : "android",
+    "qualifier" : "land-mdpi"
+  }, {
+    "tag" : "splash",
+    "filename" : "res/android/screen-xxhdpi-portrait.png",
+    "platform" : "android",
+    "qualifier" : "port-xxhdpi"
+  }, {
+    "tag" : "splash",
+    "filename" : "res/android/screen-mdpi-portrait.png",
+    "platform" : "android",
+    "qualifier" : "port-mdpi"
   } ]
 }

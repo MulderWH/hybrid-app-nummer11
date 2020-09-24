@@ -1,3 +1,4 @@
+<!-- WM: allow videos and assets to be loaded and open links in the app itself -->
 <allow-navigation href="*://*youtube.com/*" />
 <allow-navigation href="*://*youtu.be/*" />
 <allow-navigation href="*://*ytimg.com/*" />
@@ -6,3 +7,8 @@
 <allow-navigation href="*://*noembed.com/*" />
 <allow-navigation href="*://*.mp4" />
 <allow-navigation href="*://*.m4a" />
+
+<!-- WM: add NSCalendarsUsageDescription for the iOS App Store -->
+<edit-config target="NSCalendarsUsageDescription" file="*-Info.plist" mode="merge">
+    <string>This app needs to access your calendar to create an event</string>
+</edit-config>
