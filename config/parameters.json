@@ -1,7 +1,7 @@
 {
   "url" : "https://nummer11.mendixcloud.com",
-  "identifier" : "com.pegamento.nummer11",
-  "version" : "0.0.1",
+  "identifier" : "nl.pegamento.nummer11",
+  "version" : "1.0.0",
   "name" : "Nummer 11",
   "description" : null,
   "iosEnabled" : true,

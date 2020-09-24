@@ -12,3 +12,16 @@
 <edit-config target="NSCalendarsUsageDescription" file="*-Info.plist" mode="merge">
     <string>This app needs to access your calendar to create an event</string>
 </edit-config>
+
+<!-- WM: Set to false to hide the splash-screen spinner. -->  
+<preference name="ShowSplashScreenSpinner" value="false"/>
+<preference name="SplashScreenDelay" value="20000" />
+<preference name="FadeSplashScreenDuration" value="1000" />
+
+<!-- WM: Make statusbar default color black for iOS 13 dark mode -->
+<config-file parent="UIUserInterfaceStyle" platform="ios" target="*-Info.plist">
+    <string>Light</string>
+</config-file>
+<config-file target="*-Info.plist" parent="UIViewControllerBasedStatusBarAppearance">
+  <true />
+</config-file>
