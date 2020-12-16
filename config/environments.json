@@ -1,17 +1,17 @@
 {
   "test" : {
-    "name" : "Nummer 11",
-    "identifier" : "nl.pegamento.nummer11",
+    "name" : "Nummer 11 Trainer",
+    "identifier" : "nl.pegamento.nummer11trainer",
     "url" : "https://nummer11-test.mendixcloud.com"
   },
   "acceptance" : {
-    "name" : "Nummer 11",
-    "identifier" : "nl.pegamento.nummer11",
+    "name" : "Nummer 11 Trainer",
+    "identifier" : "nl.pegamento.nummer11trainer",
     "url" : "https://nummer11-accp.mendixcloud.com"
   },
   "production" : {
-    "name" : "Nummer 11",
-    "identifier" : "nl.pegamento.nummer11",
+    "name" : "Nummer 11 Trainer",
+    "identifier" : "nl.pegamento.nummer11trainer",
     "url" : "https://nummer11.mendixcloud.com"
   }
 }
